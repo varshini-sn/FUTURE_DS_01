@@ -1,2 +1,17 @@
 # FUTURE_DS_01
-This project focuses on analyzing business sales data to identify key insights that support better decision-making. Using Power BI, I cleaned and transformed the dataset and created an interactive dashboard to track sales performance.
+Project Overview
+This project analyzes customer churn using Power BI to identify key factors affecting customer retention.
+Tools Used
+Power BI
+Excel / CSV Dataset
+Key Insights
+Total Sales:2.30M
+Total Profit:286.40K
+Total Orders:9994
+Sales analysis by Region
+Sales trend over time
+Sales distribution by category
+Recommendations
+Encourage long-term subscriptions
+Improve onboarding for new users
+Optimize pricing strategies
